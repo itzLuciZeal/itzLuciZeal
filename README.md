@@ -1,4 +1,4 @@
-# Hi, I'm Zeal 👋
+# Hello! I'm Zeal 👋
 
 Welcome to my GitHub profile!
 

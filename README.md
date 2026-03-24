@@ -34,10 +34,14 @@ I’m an aspiring data scientist and Python learner who enjoys building projects
 - Learn more about machine learning and data science
 - Keep publishing work I can be proud of
 
+## Education & Certifications
+- **Senior Highschool STEM Student** | *Focus: Advanced Mathematics & Statistics*
+- **Google Data Analytics Professional Certificate** | *Coursera (In Progress)*
+
 ## Featured Projects
 
 - **Iris Regression Analysis**  
-  A project that is built within an app that explores linear relationships in the Iris dataset using regression and visualization.
+  A desktop application exploring linear relationships and statistical correlation in the Iris dataset using NumPy and Matplotlib.
 
 - **More projects coming soon...**
 

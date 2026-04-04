@@ -1,58 +1,55 @@
-# Hello! I'm Zeal 👋
+# ⚡ Hello, I'm Zeal | itzLuciZeal 👋
 
-Welcome to my GitHub profile!
-
-I’m an aspiring data scientist and Python learner who enjoys building projects, exploring statistics, and turning ideas into something real.
-
-## About Me
-
-- 🎯 Currently focused on Python, statistics, and data analysis
-- 📊 Building projects that help me grow step by step
-- 🧠 Interested in learning how data can be used to solve real problems
-- 💻 I like creating simple but meaningful tools and visualizations
-
-## What I'm Working On
-
-- Python projects
-- Regression and ANOVA analysis
-- Data visualization
-- My future portfolio website
-
-## Tech I Use
-
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- SciPy
-- Tkinter
-
-## My Goals
-
-- Build a strong portfolio of data-related projects
-- Improve my programming and problem-solving skills
-- Learn more about machine learning and data science
-- Keep publishing work I can be proud of
-
-## Education & Certifications
-- **Senior Highschool STEM Student** | *Focus: Advanced Mathematics & Statistics*
-- **Google Data Analytics Professional Certificate** | *Coursera (In Progress)*
-
-## Featured Projects
-
-- **Iris Regression Analysis**  
-  A desktop application exploring linear relationships and statistical correlation in the Iris dataset using NumPy and Matplotlib.
-
-- **More projects coming soon...**
-
-## Fun Fact
-
-I enjoy spending time improving my code until it feels clean, useful, and worth sharing.
-
-## Connect With Me
-
-- GitHub: [@itzLuciZeal](https://github.com/itzLuciZeal)
+**17-year-old Self-Taught Developer & Student** | Passionate about building the bridge between **Mathematical Logic** and **Intuitive UI/UX**. Currently engineering tools for data science and web-based business solutions.
 
 ---
 
-Thanks for visiting my profile!
+## 🛠️ My Technical Ecosystem
+
+### 📊 Data Science & Analysis
+* **Core**: Python (Pandas, NumPy, SciPy).
+* **Statistical Modeling**: Linear Regression, ANOVA, and Correlation Analysis.
+* **Visualization**: Matplotlib, Seaborn, and Tkinter for GUI-based analysis tools.
+
+### 🎨 Frontend Artistry & Design
+* **Web Tech**: HTML5, Advanced CSS3 (Keyframes, Mask-composite, Glassmorphism).
+* **Layouts**: Mastering Flexbox/Grid for 100% responsive architecture.
+* **Design**: Visual conceptualization and prototyping in **Figma**.
+
+### 🔐 Backend & Infrastructure
+* **Frameworks**: FastAPI for high-performance API development.
+* **Databases**: SQLite for structured data storage and management.
+* **Security**: Implementing robust authentication flows using **Bcrypt** (Hashing + Salt + Pepper).
+
+---
+
+## 🚀 Featured Repositories
+
+### 🧪 [CSS-Animation-Journey](https://github.com/itzLuciZeal/CSS-Animation-Journey)
+*A specialized laboratory for high-performance CSS animations and UI design.*
+* **Latest Project**: [CSS Loaders Lab](https://itzlucizeal.github.io/CSS-Animation-Journey/Simple-Mini-Projects/01-CSS-Loaders/) — High-fidelity procedural animations using zero JavaScript.
+
+### 📉 [Iris-Regression-Analysis](https://github.com/itzLuciZeal/Iris-Regression-Analysis)
+*A modular Python application for multi-variable linear regression and correlation analysis, featuring an interactive Tkinter UI.*
+
+---
+
+## 📈 Current Growth Path
+- [x] **Mastered**: CSS Animation & Procedural Loaders.
+- [ ] **In-Progress**: 10-Project Responsive UI Challenge (Flexbox Focus).
+- [ ] **In-Progress**: Google Data Analytics Professional Certificate (Coursera).
+- [ ] **Upcoming**: Launching a full-stack **Math Tutoring Platform** with secure student portals.
+
+---
+
+## 🎓 Education & Vision
+* **Senior Highschool STEM Student** | Focus: Advanced Mathematics & Statistics.
+* **Mission**: I am driven by the intersection of data and design. My goal is to build a stable, high-impact career in tech to support my family while achieving professional excellence.
+
+---
+
+### 📫 Connect With Me
+* **GitHub**: [@itzLuciZeal](https://github.com/itzLuciZeal)
+* **Status**: Open to collaboration on Data Science or Frontend UI projects.
+
+> "Memorizing isn't necessary at all in programming rather applying the knowledge you've learned to adapt."

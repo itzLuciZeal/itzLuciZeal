@@ -1,43 +1,37 @@
-# Hello, I'm itzLuciZeal 👋
+# Welcome, I am ZeL
 
-**17-year-old Self-Taught Developer & Student** | Passionate about building the bridge between **Mathematical Logic** and **Intuitive UI/UX**. Currently engineering tools for data science and web-based business solutions.
+*I'm a 17-year-old self taught developer and a student; I am passionate in building the bridge between mathematical logic and intuitive UI/UX design. I am currently mastering CSS environment, engineering tools for data science, and planning my personal business website that helps students in need.*
 
 ---
 
-## 🛠️ My Technical Ecosystem
+## Tech Stack
 
-### 📊 Data Science & Analysis
-* **Core**: Python (Pandas, NumPy, SciPy).
+### Data Science & Analysis
+* **Core**: Python (Pandas, NumPy, SciPy, & Matplotlib).
 * **Statistical Modeling**: Linear Regression, ANOVA, and Correlation Analysis.
-* **Visualization**: Matplotlib, Seaborn, and Tkinter for GUI-based analysis tools.
+* **Visualization**: Matplotlib, Plotly, and Tkinter for GUI-based analysis tools.
 
-### 🎨 Frontend Artistry & Design
+### Frontend Artistry & Design
 * **Web Tech**: HTML5, Advanced CSS3 (Keyframes, Mask-composite, Glassmorphism).
 * **Layouts**: Mastering Flexbox/Grid for 100% responsive architecture.
 * **Design**: Visual conceptualization and prototyping in **Figma**.
 
 ---
 
-## 🚀 Featured Repositories
+## Featured Repositories
 
-### 🧪 [CSS-Animation-Journey](https://github.com/itzLuciZeal/CSS-Animation-Journey)
-*A specialized laboratory for high-performance CSS animations and UI design.*
+### [CSS-Animation-Journey](https://github.com/itzLuciZeal/CSS-Animation-Journey)
+*My specialized laboratory where I document my journey on mastering CSS environments as well as the animations and UI design.*
 * **Current Project Working On**: [Responsive 3D Cards](https://itzlucizeal.github.io/CSS-Animation-Journey/Simple-Mini-Projects/Responsive-3D-Cards/) — Using glassmorphism to create frost glass effect.
 
-### 📉 [Iris-Regression-Analysis](https://github.com/itzLuciZeal/Iris-Regression-Analysis)
-*A modular Python application for multi-variable linear regression and correlation analysis, featuring an interactive Tkinter UI.*
+### [Iris-Regression-Analysis](https://github.com/itzLuciZeal/Iris-Regression-Analysis)
+*With the use of Iris dataset in Kaggle, I implemented a GUI Python application for linear regression, and correlation analysis.*
 
 ---
 
-## 📈 Current Growth Path
-- [x] **Mastered**: CSS Animation & Procedural Loaders.
-- [ ] **In-Progress**: 10-Project Responsive UI Challenge (Flexbox Focus).
-- [ ] **Upcoming**: Launching a full-stack **Math Tutoring Platform** with secure student portals.
-
----
-
-## 🎓 Education & Vision
-* **Senior Highschool STEM Student** | **Focus**: Advanced Mathematics & Statistics.
+## Education & Vision
+* **Senior Highschool STEM Student**: Incoming grade 12 student
+* **Focusing on**: Advanced Math & Statistics
 * **Mission**: I am driven by the intersection of data and design. My goal is to build a stable, high-impact career in tech to support my family while achieving professional excellence.
 
 ---

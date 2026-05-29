@@ -20,9 +20,11 @@
 
 ## Featured Repositories
 
+### [Dice Roller](https://github.com/itzLuciZeal/DiceRoller)
+_A dice rolling program that follows a unique animations and displaying the key features of JavaScript._
+
 ### [CSS-Animation-Journey](https://github.com/itzLuciZeal/CSS-Animation-Journey)
 *My specialized laboratory where I document my journey on mastering CSS environments as well as the animations and UI design.*
-* **Current Project Working On**: [Responsive 3D Cards](https://itzlucizeal.github.io/CSS-Animation-Journey/Simple-Mini-Projects/Responsive-3D-Cards/) — Using glassmorphism to create frost glass effect.
 
 ### [Iris-Regression-Analysis](https://github.com/itzLuciZeal/Iris-Regression-Analysis)
 *With the use of Iris dataset in Kaggle, I implemented a GUI Python application for linear regression, and correlation analysis.*
